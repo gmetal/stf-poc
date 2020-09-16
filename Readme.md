@@ -25,7 +25,7 @@ If you clap it will make me happy :)
 # Addendum 
 Additional work was done in the original code to facilitate a greater degree of configuration to the docker-compose.yml. More specifically,
 the following configuration environment variables were added:
-- OPENSTF_VERSION - the tag of the openstf/stf docker image to use
+- OPENSTF_VERSION - the tag of the devicefarmer/stf docker image to use
 - ADB_VERSION - the tag of the sorccu/adb docker image to use
 - ADB_KEY_PATH - the path to the adb keys
 - RETHINKDB_VERSION - the tag of the rethinkdb docker image to use
